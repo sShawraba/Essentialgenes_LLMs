@@ -20,7 +20,7 @@ This repository contains code and sample data to reproduce the experiments from 
 ## Repository Structure
 
 **Data/**  
-- `data/` – sample of our data. Refere to this link for full datasets.   
+- `data/` – sample of our data. Go to zenodo link for full datasets.   
 - `LLM_model/` – notebooks for the LLM-based models   
 - `baseline_models/` – scripts for classical machine learning models  
 - `Classifiers/` – loading trained models   
