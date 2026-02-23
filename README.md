@@ -1,6 +1,6 @@
 # Essential Genes LLMs
 <!-- Header image at top -->
-![Header Image](pipeline.png) 
+![Header Image](pipeline.jpg) 
 
 
 
@@ -9,12 +9,12 @@
 
 Please cite this paper if you find our work useful.
 
----
+
 
 ## Description
 This repository contains code and sample data to reproduce the experiments from our paper on **LLM-Based Approaches for Gene Essentiality Prediction**. 
 
----
+
 
 ## Repository Structure
 
