@@ -1,5 +1,6 @@
 # Essential Genes LLMs
-<!-- Header image at top -->
+A transformer-based model for gene essentiality prediction that leverages textual gene annotation data as well as intrinsic sequence-derived features to learn essentiality signals.
+
 ![Header Image](pipeline.jpg) 
 
 
@@ -23,9 +24,4 @@ This repository contains code and sample data to reproduce the experiments from 
 - `LLM_model/` – notebooks for the LLM-based models   
 - `baseline_models/` – scripts for classical machine learning models  
 - `Classifiers/` – loading trained models   
-
-
-
----
-
 
